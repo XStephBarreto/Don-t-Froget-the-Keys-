@@ -1,0 +1,15 @@
+Don't Froget the Key!
+
+Created by: Stephanie Barreto-Feliciano	
+
+---------
+
+Controls
+---------
+
+Movement: AWSD or Arrow Keys
+Dialog: Enter
+
+---------
+
+Game made using Bitsy
